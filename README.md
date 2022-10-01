@@ -2,9 +2,9 @@
 
 ---
 
-[*Open*](https://gitpod.io/#https://github.com/ryancahildebrandt/radicals) *in gitpod*
-[*Open*](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fryancahildebrandt%2Fradicals%2Fblob%2Fmaster%2Fradicals_pl.jl) *in binder*
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fryancahildebrandt%2Fradicals%2Fblob%2Fmaster%2Fradicals_pl.jl)
+[*Open*](https://gitpod.io/#https://github.com/ryancahildebrandt/radicals) *in gitpod*  
+[*Open*](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD) *in binder*  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD)  
 
 ## *Purpose*
 This is a little mini project looking at different embedding techniques used on kanji, partially to see what happens and partially to brush the dust off my julia lang skills. Here, I use kanji radicals and readings to construct simple embedding vectors, and overlay them with FastText semantic embeddings. This project is not intended to produce useful techniques for representing meaning in Japanese, so take the results with a grain of salt.
