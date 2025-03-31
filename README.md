@@ -2,9 +2,9 @@
 
 ---
 
-[*Open*](https://gitpod.io/#https://github.com/ryancahildebrandt/radicals) *in gitpod*  
-[*Open*](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD) *in binder*  
+[![Open in gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ryancahildebrandt/radicals)  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ryancahildebrandt/radicals/HEAD)  
+[![This project contains 0% LLM-generated content](https://brainmade.org/88x31-dark.png)](https://brainmade.org/)
 
 ## *Purpose*
 This is a little mini project looking at different embedding techniques used on kanji, partially to see what happens and partially to brush the dust off my julia lang skills. Here, I use kanji radicals and readings to construct simple embedding vectors, and overlay them with FastText semantic embeddings. This project is not intended to produce useful techniques for representing meaning in Japanese, so take the results with a grain of salt.
